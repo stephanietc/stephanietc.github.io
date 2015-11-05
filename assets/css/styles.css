@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Developer - Responsive Website Template for Developers
  * Version: 1.3
  * Author: Xiaoying Riley
@@ -26,7 +26,7 @@ h6 {
   color: #778492;
 }
 a {
-  color: #3aaa64;
+  color: #4682a8;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,8 +34,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #5f6b77;
-  color: #2d844e;
+  color: #778492;
+  color: #778492;
 }
 a:focus {
   text-decoration: none;
@@ -90,7 +90,7 @@ a.btn-cta-secondary:hover,
   color: #32383e;
 }
 .label-theme {
-  background: #3aaa64;
+  background: #479fc8;
   font-size: 12px;
 }
 a.dotted-link {
