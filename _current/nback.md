@@ -1,10 +1,12 @@
 ---
-layout: single
+layout: archive
 title: "N-back sequence generator"
 order: 5
 excerpt: "current project"
 header:
   teaser: /assets/images/projects/nback.png
+  url: /research/nback
+author_profile: true
 ---
 
 ![N-back sequence generator]({{ site.url }}{{ site.baseurl }}\assets\images\projects\nback.png)
