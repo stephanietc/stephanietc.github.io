@@ -13,7 +13,7 @@ title                    : "Stephanie Cheung"
 title_separator          : "-"
 name                     : "Stephanie Cheung"
 description              : "Researcher"
-url                      : 
+url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -88,8 +88,8 @@ author:
   name             : "Stephanie Cheung"
   avatar           : /assets/images/profile.png
   bio              : "BEng, MASc"
-  location         :
-  email            : hello@stephaniecheung.ca
+  location         : 
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -109,10 +109,10 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : steph_tc
-  orcid            : 0000-0001-7006-3160
-  researchgate     : Stephanie_Cheung4
-  gscholar         : fcFvLQsAAAAJ
+  twitter          :
+  orcid            :
+  researchgate     :
+  gscholar         :
   vine             :
   weibo            :
   xing             :
