@@ -1,0 +1,36 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.twitter.username %}
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter" style="color:#777a7d" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+    {% if site.facebook.username %}
+      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    {% endif %}
+    {% if site.orcid.username %}
+      <li><a href="http://orcid.org/{{ site.orcid.username }}"><i class="ai ai-orcid fa-fw" aria-hidden="true"></i> ORCID</a></li>
+    {% endif %}
+    {% if site.researchgate.username %}
+      <li><a href="http://www.researchgate.net/profile/{{ site.researchgate.username }}"><i class="ai ai-researchgate fa-fw" aria-hidden="true"></i> ResearchGate</a></li>
+    {% endif %}
+    {% if site.academia.username %}
+      <li><a href="http://utoronto.academia.edu/StephanieCheung"><i class="ai ai-academia fa-fw" aria-hidden="true"></i> Academia</a></li>
+    {% endif %}
+    {% if site.gscholar.username %}
+      <li><a href="http://scholar.google.ca/citations?user={{ site.gscholar.username }}"><i class="ai ai-google-scholar fa-fw" aria-hidden="true"></i> Google Scholar</a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="http://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.gitlab %}
+      <li><a href="http://gitlab.com/{{ site.author.gitlab }}"><i class="fa fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
