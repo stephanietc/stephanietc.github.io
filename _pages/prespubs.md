@@ -10,10 +10,6 @@ To find presentations and posters by project, please select a project [here](/re
 **Cheung, S.**, Han, E., Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory
 interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401. [doi:10.3389/fnins.2016.00401](dx.doi.org/10.3389/fnins.2016.00401)
 
-## Invited talks##
-**Cheung, S.T.** (Feb, 2016). “Merging music and technology for paediatric rehabilitation.” *at
-Science of Music Seminar Series*, Vanderbilt University, Nashville, TN.
-
 ## Conference presentations##
 **Cheung, S.**, Hodge, A., Khan, A., Chen, J., Biddiss, E. (Nov, 2016). “Development of music-based video games for upper limb rehabilitation therapy in children with cerebral palsy.” at *12th Annual NeuroMusic Conference*, Hamilton, ON. [doi:10.13140/RG.2.2.32908.51846](dx.doi.org/10.13140/RG.2.2.32908.51846)
 
