@@ -8,18 +8,18 @@ author_profile: true
 
 ## Send a message##
 <a href="mailto:hello@stephaniecheung.ca">
-  <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> hello@stephaniecheung.ca
+  <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>hello@stephaniecheung.ca
 </a>
 <br>
 <a href="https://twitter.com/{{ author.twitter }}">
-  <i class="fa fa-fw fa-twitter" aria-hidden="true"></i> @steph_tc
+  <i class="fa fa-fw fa-twitter" aria-hidden="true"></i>@steph_tc
 </a>
 
 ## Find my work##
-  <a href="http://orcid.org/{{ site.orcid.username }}"><i class="ai ai-orcid fa-fw" aria-hidden="true"></i> ORCID</a>
+  <a href="http://orcid.org/{{ site.orcid.username }}"><i class="ai ai-orcid fa-fw" aria-hidden="true"></i>ORCID</a>
   <br>
-  <a href="http://www.researchgate.net/profile/{{ site.researchgate.username }}"><i class="ai ai-researchgate fa-fw" aria-hidden="true"></i> ResearchGate</a>
+  <a href="http://www.researchgate.net/profile/{{ site.researchgate.username }}"><i class="ai ai-researchgate fa-fw" aria-hidden="true"></i>ResearchGate</a>
   <br>
-  <a href="http://utoronto.academia.edu/StephanieCheung"><i class="ai ai-academia fa-fw" aria-hidden="true"></i> Academia</a>
+  <a href="http://utoronto.academia.edu/StephanieCheung"><i class="ai ai-academia fa-fw" aria-hidden="true"></i>Academia</a>
   <br>
-  <a href="http://scholar.google.ca/citations?user={{ site.gscholar.username }}"><i class="ai ai-google-scholar fa-fw" aria-hidden="true"></i> Google Scholar</a>
+  <a href="http://scholar.google.ca/citations?user={{ site.gscholar.username }}"><i class="ai ai-google-scholar fa-fw" aria-hidden="true"></i>Google Scholar</a>
