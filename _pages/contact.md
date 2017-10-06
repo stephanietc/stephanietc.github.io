@@ -20,6 +20,6 @@ author_profile: true
   <br>
   <a href="http://www.researchgate.net/profile/{{ site.researchgate.username }}"><i class="ai ai-researchgate fa-fw" aria-hidden="true"></i>ResearchGate</a>
   <br>
-  <a href="http://utoronto.academia.edu/StephanieCheung"><i class="ai ai-academia fa-fw" aria-hidden="true"></i>Academia</a>
+  <a href="http://utoronto.academia.edu/StephanieCheung"><i class="ai ai-academia fa-fw" aria-hidden="true"></i>Academia.edu</a>
   <br>
   <a href="http://scholar.google.ca/citations?user={{ site.gscholar.username }}"><i class="ai ai-google-scholar fa-fw" aria-hidden="true"></i>Google Scholar</a>

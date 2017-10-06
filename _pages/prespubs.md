@@ -4,7 +4,7 @@ title: "Presentations and Publications"
 layout: single
 author_profile: true
 ---
-To find presentations and posters by project, please select a project [here](/research/)
+To find presentations and posters by project, please select a project [here](/research/).
 
 ## Peer-reviewed journal articles##
 **Cheung, S.**, Han, E., Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory
