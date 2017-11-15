@@ -11,7 +11,9 @@ To find presentations and posters by project, please select a project [here](/re
 interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401. [doi:10.3389/fnins.2016.00401](dx.doi.org/10.3389/fnins.2016.00401)
 
 ## Conference presentations##
-**Cheung, S.**, Hodge, A., Khan, A., Chen, J., Biddiss, E. (Nov, 2016). “Development of music-based video games for upper limb rehabilitation therapy in children with cerebral palsy.” at *12th Annual NeuroMusic Conference*, Hamilton, ON. [doi:10.13140/RG.2.2.32908.51846](dx.doi.org/10.13140/RG.2.2.32908.51846)
+**Cheung, S.**, Quinn de Launay, K., & Beal, D. (Nov, 2017). “Altered auditory feedback in the study of children's speech production: A scoping review.” at *2017 American Speech-Language-Hearing Convention*, Los Angeles, CA. [doi:10.13140/RG.2.2.10906.54722](dx.doi.org/10.13140/RG.2.2.10906.54722)
+
+**Cheung, S.**, Hodge, A., Khan, A., Chen, J., & Biddiss, E. (Nov, 2016). “Development of music-based video games for upper limb rehabilitation therapy in children with cerebral palsy.” at *12th Annual NeuroMusic Conference*, Hamilton, ON. [doi:10.13140/RG.2.2.32908.51846](dx.doi.org/10.13140/RG.2.2.32908.51846)
 
 **Cheung, S.T.** (Mar, 2016). “MusicMaster: Movement through Music.” at *CP-NET Workshop 2016*, Toronto, ON.
 
