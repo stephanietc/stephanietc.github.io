@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/background.png
 excerpt: "BEng, MASc"
 intro:
-  - excerpt: 'Speech development researcher, neurotech enthusiast, signal processing nerd. Happily merging biomedical engineering and neuroscience to answer interesting questions and create something new. Welcome to my corner of the internet!'
+  - excerpt: 'Speech development researcher, neurotech enthusiast, signal processing nerd. Merging biomedical engineering and neuroscience to answer interesting questions and create something new.'
 
 ---
 
