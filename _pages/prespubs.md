@@ -4,13 +4,17 @@ title: "Presentations and Publications"
 layout: single
 author_profile: true
 ---
-To find presentations and posters by project, please select a project [here](/research/).
+To filter presentations and posters by project, please select a project [here](/research/).
 
 ## Peer-reviewed journal articles##
 **Cheung, S.**, Han, E., Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory
 interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401. [doi:10.3389/fnins.2016.00401](dx.doi.org/10.3389/fnins.2016.00401)
 
 ## Conference presentations##
+**Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. (Feb, 2018). “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motod Speech*, Savannah, GA. [dx.doi.org/10.13140/RG.2.2.36054.14409](dx.doi.org/10.13140/RG.2.2.36054.14409)
+
+**Cheung, S.**, Thompson, K., Quinn de Launay, K., Yunusova, Y., & Beal, D. (Feb, 2018). “Compensation and adaptation to vowel perturbation in children aged 4 to 9.” at *Madonna Conference on Motor Speech*, Savannah, GA.
+
 **Cheung, S.**, Quinn de Launay, K., & Beal, D. (Nov, 2017). “Altered auditory feedback in the study of children's speech production: A scoping review.” at *2017 American Speech-Language-Hearing Convention*, Los Angeles, CA. [doi:10.13140/RG.2.2.10906.54722](dx.doi.org/10.13140/RG.2.2.10906.54722)
 
 **Cheung, S.**, Hodge, A., Khan, A., Chen, J., & Biddiss, E. (Nov, 2016). “Development of music-based video games for upper limb rehabilitation therapy in children with cerebral palsy.” at *12th Annual NeuroMusic Conference*, Hamilton, ON. [doi:10.13140/RG.2.2.32908.51846](dx.doi.org/10.13140/RG.2.2.32908.51846)
