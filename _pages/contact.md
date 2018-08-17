@@ -11,9 +11,6 @@ author_profile: true
   <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>hello@stephaniecheung.ca
 </a>
 <br>
-<a href="https://twitter.com/{{ site.twitter.username }}">
-  <i class="fa fa-fw fa-twitter" aria-hidden="true"></i>@steph_tc
-</a>
 
 ## Find my work##
   <a href="http://orcid.org/{{ site.orcid.username }}"><i class="ai ai-orcid fa-fw" aria-hidden="true"></i>ORCID</a>
