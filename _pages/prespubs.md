@@ -6,11 +6,11 @@ author_profile: true
 ---
 To filter presentations and posters by project, please select a project [here](/research/).
 
-## Peer-reviewed journal articles##
+## Peer-reviewed journal articles
 **Cheung, S.**, Han, E., Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory
 interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401. [doi:10.3389/fnins.2016.00401](dx.doi.org/10.3389/fnins.2016.00401)
 
-## Conference presentations##
+## Conference presentations
 **Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. (Feb, 2018). “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motod Speech*, Savannah, GA. [dx.doi.org/10.13140/RG.2.2.36054.14409](dx.doi.org/10.13140/RG.2.2.36054.14409)
 
 **Cheung, S.**, Thompson, K., Quinn de Launay, K., Yunusova, Y., & Beal, D. (Feb, 2018). “Compensation and adaptation to vowel perturbation in children aged 4 to 9.” at *Madonna Conference on Motor Speech*, Savannah, GA.
