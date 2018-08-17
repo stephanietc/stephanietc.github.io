@@ -12,5 +12,8 @@ author_profile: true
 
 I developed an automated generator that creates stimulus sequences for an N-back working memory task. This project supports a colleague's project to study the impact of neurostimulation interventions on persistent post-concussion cognitive symptoms.
 
-## Funding##
+## Presentations
+Quinn de Launay, K., **Cheung, S.**, Riggs, L., Reed, N., & Beal, D. (Aug, 2018). “The effect of multi-session transcranial direct current stimulation on cognitive performance in youth with concussion: A pilot and feasibility study.” at *NYC Neuromodulation Conference*, New York, NY.
+
+## Funding
 Holland Bloorview Centres for Leadership
