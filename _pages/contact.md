@@ -21,4 +21,5 @@ author_profile: true
   <br>
   <a href="http://scholar.google.ca/citations?user={{ site.gscholar.username }}"><i class="ai ai-google-scholar fa-fw" aria-hidden="true"></i>Google Scholar</a>
   <br>
-  <a href="http://linkedin.com/{{ site.linkedin.username }}"><i class="fa fa-linkedin fa-fw" aria-hidden="true"></i>LinkedIn</a>  
+  <a href="http://linkedin.com/in/{{ site.linkedin.username }}"><i class="fa fa-linkedin fa-fw" aria-hidden="true"></i>LinkedIn</a>  
+  <br>
