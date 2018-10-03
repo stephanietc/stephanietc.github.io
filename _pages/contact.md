@@ -20,3 +20,5 @@ author_profile: true
   <a href="http://utoronto.academia.edu/StephanieCheung"><i class="ai ai-academia fa-fw" aria-hidden="true"></i>Academia.edu</a>
   <br>
   <a href="http://scholar.google.ca/citations?user={{ site.gscholar.username }}"><i class="ai ai-google-scholar fa-fw" aria-hidden="true"></i>Google Scholar</a>
+  <br>
+  <a href="http://linkedin.com/{{ site.linkedin.username }}"><i class="fa fa-linkedin fa-fw" aria-hidden="true"></i>LinkedIn</a>  
