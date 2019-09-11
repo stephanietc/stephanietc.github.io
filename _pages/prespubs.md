@@ -7,8 +7,12 @@ author_profile: true
 To filter presentations and posters by project, please select a project [here](/research/).
 
 ## Peer-reviewed journal articles
+Wincentak, J., **Cheung, S.**, & Kingsnorth, S. (2019) “Utilizing a Journal Club to Build Research Competencies in a Cross-Disciplinary Environment.” *Scholarly and Research Communication*. Online. [doi:dx.doi.org/10.22230/src.2019v10n3a337](http://dx.doi.org/dx.doi.org/10.22230/src.2019v10n3a337)
+
+Biddiss, E., Chan-Viquez, D., **Cheung, S.T.**, & King, G. (2019) “Engaging children with cerebral palsy in interactive computer play-based motor therapies: theoretical perspectives.” *Disability and Rehabilitation*. Online ahead of print. [doi:10.1080/09638288.2019.1613681](http://dx.doi.org/10.1080/09638288.2019.1613681)
+
 **Cheung, S.**, Han, E., Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory
-interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401. [doi:10.3389/fnins.2016.00401](http://dx.doi.org/10.3389/fnins.2016.00401)
+interface for detecting physiological indicators of anxiety in children.” *Frontiers in Neuroscience*. 10:401. [doi:10.3389/fnins.2016.00401](http://dx.doi.org/10.3389/fnins.2016.00401)
 
 ## Conference presentations
 Quinn de Launay, K., **Cheung, S.**, Riggs, L., Reed, N., & Beal, D. (Aug, 2018). “The effect of multi-session transcranial direct current stimulation on cognitive performance in youth with concussion: A pilot and feasibility study.” at *NYC Neuromodulation Conference*, New York, NY.

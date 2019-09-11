@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/background.png
 excerpt: "BEng, MASc"
 intro:
-  - excerpt: 'Speech development researcher, neurotechnology enthusiast, signal processing nerd.'
+  - excerpt: 'Speech development researcher, neurotechnology enthusiast, signal processing nerd. Advocating for open and equitable scholarship in health research.'
 feature_row:
   - image_path: /assets/images/projects/nserc.png
     alt: "Auditory feedback in speech development"
