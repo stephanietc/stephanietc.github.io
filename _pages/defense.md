@@ -12,7 +12,9 @@ author_profile: true
 <br>
 **Time:** 1:30pm - 2:30pm EDT
 <br>
-**Link:** [TBA](http://stephaniecheung.ca/defense)
+**Link:** [join me on Zoom!](https://hollandbloorview.zoom.us/j/107743116?pwd=U1ViV2c2Q3FVQU9VZVg5VmhidWQwZz09)
+<br>
+**Note:** Please keep your mic on mute (or else you will find that you are the one defending a PhD). Thanks!
 
 ## Thanks
 Thanks for your patience as I work out the logistics of hosting a virtual defense. It's strange to proceed with this milestone under the current circumstances, but I'll keep this page updated with the latest information about the event. I hope that you are all keeping safe and well, and that you're able to prioritize the health and wellbeing of yourselves and your communities.
