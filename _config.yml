@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "raspberry" # "air", "contrast", "dark", "dirt", "min
 
 # Site Settings
 locale                   : "en"
-title                    : "Stephanie Cheung"
+title                    : "Stephanie Cheung, PhD"
 title_separator          : "-"
-name                     : "Stephanie Cheung"
-description              : "The website of Stephanie Cheung, speech motor control researcher."
+name                     : "Stephanie Cheung, PhD"
+description              : "The website of Stephanie Cheung, PhD, biomedical engineering researcher."
 url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -84,14 +84,14 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-67822898-1
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Stephanie Cheung"
+  name             : "Stephanie Cheung, PhD"
   avatar           : /assets/images/profile_circle.png
-  bio              : "BEng, MASc"
+  bio              : "biomedical engineering researcher"
   location         :
   email            :
   uri              :
