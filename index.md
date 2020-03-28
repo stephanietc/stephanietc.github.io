@@ -4,7 +4,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/background.png
-excerpt: ""
+excerpt: "BEng, MASc"
 intro:
   - excerpt: 'Biomedical engineering researcher, scientific methods evaluator, signal processing nerd. I care about open and equitable scholarship in health research.'
 feature_row:

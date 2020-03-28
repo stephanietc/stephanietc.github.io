@@ -13,7 +13,7 @@ author_profile: true
 With [Dr. Elaine Biddiss](http://research.hollandbloorview.ca/scientist/Elaine-Biddiss) and [Elizabeth Han](http://elizabethhan.com/), I evaluated an auditory interface to help caregivers detect anxiety in children with communication difficulties. We mapped physiological indicators of anxiety to sounds, creating lively "biomusic" that lets you hear anxious feelings in musical changes.
 
 ## Publication
-Cheung, S.*, Han, E.*, Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401. [doi:10.3389/fnins.2016.00401](http://dx.doi.org/10.3389/fnins.2016.00401)
+[Cheung, S.*, Han, E.*, Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401.](http://dx.doi.org/10.3389%2Ffnins.2016.00401)
 
 ## Press
 [Nathan Hurst, (April, 2018) "Can Biomusic Offer Kids With Autism a New Way to Communicate?" *Smithsonian Magazine*.](http://www.smithsonianmag.com/innovation/can-biomusic-offer-kids-autism-new-way-communicate-180968649/)
