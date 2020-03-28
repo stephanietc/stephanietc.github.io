@@ -23,9 +23,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"    
   - image_path: /assets/images/projects/project-3.png
-    title: "Biomusic"
+    title: "Biomusic: Listening to anxiety"
     alt: "Biomusic: Listening to anxiety"
-    excerpt: "Listening to anxiety."
+    excerpt: "Capturing feeling through sound."
     url: "/research/biomusic/"
     btn_label: "Read More"
     btn_class: "btn--primary"
