@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/background.png
 excerpt: ""
 intro:
-  - excerpt: 'Speech development researcher, neurotechnology enthusiast, signal processing nerd. Advocating for open and equitable scholarship in health research.'
+  - excerpt: 'Biomedical engineering researcher, scientific methods evaluator, signal processing nerd. I care about open and equitable scholarship in health research.'
 feature_row:
   - image_path: /assets/images/projects/nserc.png
     alt: "Auditory feedback in speech development"
