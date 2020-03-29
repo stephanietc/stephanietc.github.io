@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "raspberry" # "air", "contrast", "dark", "dirt", "min
 
 # Site Settings
 locale                   : "en"
-title                    : "Stephanie Cheung"
+title                    : "Stephanie T. Cheung"
 title_separator          : "-"
-name                     : "Stephanie Cheung"
-description              : "The website of Stephanie Cheung, biomedical engineering researcher."
+name                     : "Stephanie T. Cheung"
+description              : "The website of Stephanie T. Cheung, biomedical engineering researcher."
 url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -89,9 +89,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stephanie Cheung"
+  name             : "Stephanie T. Cheung"
   avatar           : /assets/images/profile_circle.png
-  bio              : "BEng, MASc"
+  bio              : ""
   location         :
   email            :
   uri              :
