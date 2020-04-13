@@ -69,7 +69,7 @@ researchgate:
 gscholar:
   username               : fcFvLQsAAAAJ
 academia:
-  username               : StephanieCheung
+  username               :
 linkedin:
   username               : stephanietcheung
 og_image                 : # Open Graph/Twitter default site image
@@ -82,9 +82,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               :  # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-67822898-1
+    tracking_id          :
 
 
 # Site Author
@@ -187,15 +187,16 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# # Outputting
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
 plugins:
+#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
