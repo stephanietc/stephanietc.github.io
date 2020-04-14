@@ -9,7 +9,7 @@ author_profile: true
 ---
 ![Music-based therapy games]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-4.png)
 
-With [Dr. Elaine Biddiss](https://hollandbloorview.ca/staff/elaine-biddiss-masc-phd) and [Dr. Joyce Chen](http://joycelchen.weebly.com/), I designed video games to help children with cerebral palsy to access music therapy from home. By pairing motion tracking technology with music-supported rehabilitation therapy techniques, these therapies are designed to enhance upper limb motor learning in a fun, engaging way.
+With [Dr. Elaine Biddiss](https://hollandbloorview.ca/staff/elaine-biddiss-masc-phd) and [Dr. Joyce Chen](https://kpe.utoronto.ca/faculty/chen-joyce), I designed video games to help children with cerebral palsy to access music therapy from home. By pairing motion tracking technology with music-supported rehabilitation therapy techniques, these therapies are designed to enhance upper limb motor learning in a fun, engaging way.
 
 
 ## Presentations

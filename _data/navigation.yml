@@ -5,7 +5,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Presentations/Publications"
-    url: /prespubs/   
+    url: /prespubs/
   - title: "Contact"
     url: /contact/
 research:
@@ -13,15 +13,17 @@ research:
     children:
       - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> Auditory feedback in speech development</a>
         url: /research/auditoryfb/
-      - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> N-back sequence generator</a>
-        url: /research/nback/
+      - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> Engagement in video game therapies</a>
+        url: /research/icpengagement/
   - title: "Past"
     children:
-      - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Music-based video games for arm and hand rehabilitation</a>
+      - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> N-back sequence generator</a>
+        url: /research/nback/
+      - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Music-based therapy games</a>
         url: /research/musicmaster/
       - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Audio classification of musical instruments</a>
         url: /research/instrumentclassifier/
-      - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Physiological models of impaired sound localization</a>
+      - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Physiological models of sound localization</a>
         url: /research/soundloc/
       - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Biomusic&#58; Listening to anxiety</a>
         url: /research/biomusic/
