@@ -10,7 +10,7 @@ author_profile: true
 
 ![Sound localization]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-3.png)
 
-With [Dr. Elaine Biddiss](http://research.hollandbloorview.ca/scientist/Elaine-Biddiss) and [Elizabeth Han](http://elizabethhan.com/), I evaluated an auditory interface to help caregivers detect anxiety in children with communication difficulties. We mapped physiological indicators of anxiety to sounds, creating lively "biomusic" that lets you hear anxious feelings in musical changes.
+With [Dr. Elaine Biddiss](https://hollandbloorview.ca/staff/elaine-biddiss-masc-phd) and researchers at [Holland Bloorview Kids Rehabilitation Hospital](https://hollandbloorview.ca/), I evaluated an auditory interface to help caregivers detect anxiety in children with communication difficulties. We mapped physiological indicators of anxiety to sounds, creating lively "biomusic" that lets you hear anxious feelings in musical changes.
 
 ## Publication
 Cheung, S.*, Han, E.*, Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401. [doi:10.3389/fnins.2016.00401](http://dx.doi.org/10.3389/fnins.2016.00401)
