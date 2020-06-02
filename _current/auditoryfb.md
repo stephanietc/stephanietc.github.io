@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Auditory feedback in speech development"
-order: 7
+order: 8
 header:
   teaser: /assets/images/projects/nserc.png
   url: /research/auditoryfb
@@ -13,7 +13,7 @@ author_profile: true
 I am currently working with [Dr. Deryk Beal](https://hollandbloorview.ca/staff/deryk-beal-phd-reg-caslpo-ccc-slp), researching how kids learn how to speak when they are young. We are interested in learning about the role of auditory feedback - the sound of our own voices - in this process.
 
 ## Presentations
-**Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. (Feb, 2018). “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motod Speech*, Savannah, GA. [doi:10.13140/RG.2.2.36054.14409](http://dx.doi.org/10.13140/RG.2.2.36054.14409)
+<!-- **Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. (Feb, 2018). “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motod Speech*, Savannah, GA. [doi:10.13140/RG.2.2.36054.14409](http://dx.doi.org/10.13140/RG.2.2.36054.14409) -->
 
 **Cheung, S.**, Thompson, K., Quinn de Launay, K., Yunusova, Y., & Beal, D. (Feb, 2018). “Compensation and adaptation to vowel perturbation in children aged 4 to 9.” at *Madonna Conference on Motor Speech*, Savannah, GA.
 

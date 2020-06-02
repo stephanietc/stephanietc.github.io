@@ -13,6 +13,8 @@ research:
     children:
       - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> Auditory feedback in speech development</a>
         url: /research/auditoryfb/
+      - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> Validation of auditory perturbation software</a>
+        url: /research/audaptervalidation/
       - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> Engagement in video game therapies</a>
         url: /research/icpengagement/
   - title: "Past"

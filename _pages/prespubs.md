@@ -4,8 +4,6 @@ title: "Presentations and Publications"
 layout: single
 author_profile: true
 ---
-To filter presentations and posters by project, please select a project [here](/research/).
-
 ## Peer-reviewed journal articles
 Wincentak, J., **Cheung, S.**, & Kingsnorth, S. (2019) “Utilizing a Journal Club to Build Research Competencies in a Cross-Disciplinary Environment.” *Scholarly and Research Communication*. Online. [doi:dx.doi.org/10.22230/src.2019v10n3a337](http://dx.doi.org/10.22230/src.2019v10n3a337)
 
