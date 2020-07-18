@@ -17,7 +17,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/projects/nback.png
     alt: "Handwritten numbers, boxes, and arrows are scrawled on a black background."
-    title: "Memory test generator"
+    title: "Memory test sequence generator"
     excerpt: "Simplifying stimulus sequencing."
     url: "research/nback/"
     btn_label: "Read More"
