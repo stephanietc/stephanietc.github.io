@@ -8,9 +8,9 @@ header:
 author_profile: true
 ---
 
-![Sound localization]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-3.png)
+![Arrows connect a left column of symbols to a right column of symbols. A heart connects to a drum. Lungs connect to waves. A hand connects to a microphone. A thermometer connects to musicians.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-3.png)
 
-With [Dr. Elaine Biddiss](https://hollandbloorview.ca/staff/elaine-biddiss-masc-phd) and researchers at [Holland Bloorview Kids Rehabilitation Hospital](https://hollandbloorview.ca/), I evaluated an auditory interface to help caregivers detect anxiety in children with communication difficulties. We mapped physiological indicators of anxiety to sounds, creating lively "biomusic" that lets you hear anxious feelings in musical changes.
+With [Dr. Elaine Biddiss](https://hollandbloorview.ca/staff/elaine-biddiss-masc-phd) and colleagues at [Holland Bloorview Kids Rehabilitation Hospital](https://hollandbloorview.ca/), I developed an auditory interface that helps children with communication disabilities to express their anxiety to caregivers. Our team transformed physiological indicators of anxiety into sounds, creating lively "biomusic" that lets you hear anxious feelings in musical changes. In our research, we found that our system performs with high accuracy (81%).
 
 ## Publication
 Cheung, S.*, Han, E.*, Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory interface for detecting physiological indicators of anxiety in children.” *Front Neurosci*. 10:401. [doi:10.3389/fnins.2016.00401](http://dx.doi.org/10.3389/fnins.2016.00401)

@@ -6,25 +6,25 @@ header:
   overlay_image: /assets/images/background.png
 excerpt: ""
 intro:
-  - excerpt: 'Biomedical engineering researcher, signal processing nerd.'
+  - excerpt: 'Biomedical engineering researcher. Implementation enthusiast. Data sleuth.'
 feature_row:
   - image_path: /assets/images/projects/nserc.png
-    alt: "Auditory feedback in speech development"
+    alt: "Headphones and a microphone lie on a table, next the jumbled headphone extension cord."
     title: "Auditory feedback in speech development"
     excerpt: "Understanding children's speech."
     url: "research/auditoryfb/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/projects/nback.png
-    alt: "Memory test sequence automator"
-    title: "Memory test sequence automator"
-    excerpt: "Simplifying stimulus generation."
+    alt: "Handwritten numbers, boxes, and arrows are scrawled on a black background."
+    title: "Memory test generator"
+    excerpt: "Simplifying stimulus sequencing."
     url: "research/nback/"
     btn_label: "Read More"
     btn_class: "btn--primary"    
   - image_path: /assets/images/projects/project-3.png
     title: "Biomusic: Listening to anxiety"
-    alt: "Biomusic: Listening to anxiety"
+    alt: "Arrows connect a left column of symbols to a right column of symbols. A heart connects to a drum. Lungs connect to waves. A hand connects to a microphone. A thermometer connects to musicians."
     excerpt: "Capturing feeling through sound."
     url: "/research/biomusic/"
     btn_label: "Read More"

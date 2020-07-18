@@ -7,9 +7,9 @@ header:
   url: /research/musicmaster
 author_profile: true
 ---
-![Music-based therapy games]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-4.png)
+![A cartoonish video game screenshot depicts a rainbow of circles on the centre of the screen. The circles are overlaid on a real picture of a smiling player. 'Random Sequence Mode' is written at the top of the screen. A white hand-shaped cursor appears on top of the player's left hand, hovering over a circle labeled 'E'. A robot smiles at the top of the screen. The game score is one coin and zero robots collected. A blue arrow at the bottom of the screen is labeled 'Main Menu'. A guitar and a microphone flank either side of the screen, which is framed with red curtains.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-4.png)
 
-With [Dr. Elaine Biddiss](https://hollandbloorview.ca/staff/elaine-biddiss-masc-phd) and [Dr. Joyce Chen](https://kpe.utoronto.ca/faculty/chen-joyce), I designed video games to help children with cerebral palsy to access music therapy from home. By pairing motion tracking technology with music-supported rehabilitation therapy techniques, these therapies are designed to enhance upper limb motor learning in a fun, engaging way.
+With [Dr. Elaine Biddiss](https://hollandbloorview.ca/staff/elaine-biddiss-masc-phd) and [Dr. Joyce Chen](https://kpe.utoronto.ca/faculty/chen-joyce), I designed video games that allow children with cerebral palsy to access music therapy from home. By pairing motion tracking technology with music therapy techniques, these games are designed to enhance upper limb motor learning in a fun, engaging way.
 
 
 ## Presentations

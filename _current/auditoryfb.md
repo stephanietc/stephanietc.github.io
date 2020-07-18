@@ -8,9 +8,9 @@ header:
 author_profile: true
 ---
 
-![Auditory feedback in speech development]({{ site.url }}{{ site.baseurl }}\assets\images\projects\nserc.png)
+![Headphones and a microphone lie on a table, next the jumbled headphone extension cord.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\nserc.png)
 
-I am currently working with [Dr. Deryk Beal](https://hollandbloorview.ca/staff/deryk-beal-phd-reg-caslpo-ccc-slp), researching how kids learn how to speak when they are young. We are interested in learning about the role of auditory feedback - the sound of our own voices - in this process.
+I am working with [Dr. Deryk Beal](https://hollandbloorview.ca/staff/deryk-beal-phd-reg-caslpo-ccc-slp) to investigate speech development in children. We are interested in understanding the role of auditory feedback - the sound of our own voices - in this process.
 
 ## Presentations
 <!-- **Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. (Feb, 2018). “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motod Speech*, Savannah, GA. [doi:10.13140/RG.2.2.36054.14409](http://dx.doi.org/10.13140/RG.2.2.36054.14409) -->

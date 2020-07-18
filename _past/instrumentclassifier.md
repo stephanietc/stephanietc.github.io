@@ -8,6 +8,6 @@ header:
 author_profile: true
 ---
 
-![Music instrument classification]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-1.png)
+![Musical instruments lie jumbled on the table: Cymbals, maracas, and a tambourine lie on top of a triangle.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-1.png)
 
-I used machine learning to detect and classify musical instruments from audio mixtures. In mixed-reality video games for motor therapy, these algorithms can complement motion tracking to detect and reward sounds associated with fine movements of music-making. These movements may be missed by motion tracking alone.
+I used machine learning to classify musical instruments from audio mixtures. In mixed-reality video games for music therapy, these algorithms can be paired with camera tracking to detect and reward the motions of music-making. These movements may be missed by camera tracking alone.
