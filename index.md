@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/background.png
 excerpt: ""
 intro:
-  - excerpt: 'Biomedical engineering researcher. Implementation enthusiast. Data sleuth.'
+  - excerpt: 'Biomedical engineering researcher. Implementation science enthusiast. Data sleuth.'
 feature_row:
   - image_path: /assets/images/projects/nserc.png
     alt: "Headphones and a microphone lie on a table, next the jumbled headphone extension cord."
