@@ -5,6 +5,7 @@ order: 2
 header:
   teaser: /assets/images/projects/project-2.png
   url: /research/soundloc
+  alt: "A colourful neurogram shows the spiking activity of brainstem neurons with differing intensity."
 author_profile: true
 ---
 

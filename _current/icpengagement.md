@@ -5,6 +5,7 @@ order: 6
 header:
   teaser: /assets/images/projects/engagement.png
   url: /research/auditoryfb
+  alt: "A video game controller lies on top of a stack of stapled papers on a wooden surface, the cord wrapped several times around its centre."
 author_profile: true
 ---
 ![A video game controller lies on top of a stack of stapled papers on a wooden surface, the cord wrapped several times around its centre.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\engagement.png)

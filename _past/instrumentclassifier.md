@@ -5,6 +5,7 @@ order: 3
 header:
   teaser: /assets/images/projects/project-1.png
   url: /research/instrumentclassifier
+  alt: "Musical instruments lie jumbled on the table: Cymbals, maracas, and a tambourine lie on top of a triangle."
 author_profile: true
 ---
 

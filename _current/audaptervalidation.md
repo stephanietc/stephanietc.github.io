@@ -5,6 +5,7 @@ order: 7
 header:
   teaser: /assets/images/projects/nserc-old.png
   url: /research/audaptervalidation
+  alt: "A quiver plot depicts a field of arrows, progressively shorter towards the bottom left of the plot. A quadrilateral is overlaid on the quiver plot."
 author_profile: true
 ---
 

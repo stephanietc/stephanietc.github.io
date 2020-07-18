@@ -4,6 +4,12 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
+{% if post.header.alt %}
+  {% capture alt %}{{ post.header.alt }}{% endcapture %}
+{% else %}
+  {% assign alt = site.alt %}
+{% endif %}
+
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -20,7 +26,7 @@
           {% else %}
             "{{ teaser | absolute_url }}"
           {% endif %}
-          alt="">
+          alt="{% if alt %}{{ alt }}{% endif %}">
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">

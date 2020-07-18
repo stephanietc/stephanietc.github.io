@@ -5,6 +5,7 @@ order: 5
 header:
   teaser: /assets/images/projects/nback.png
   url: /research/nback
+  alt: "Handwritten numbers, boxes, and arrows are scrawled on a black background."
 author_profile: true
 ---
 
