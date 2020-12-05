@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Stephanie Cheung, PhD"
 title_separator          : "-"
 name                     : "Stephanie Cheung, PhD"
-description              : "The website of Stephanie Cheung, PhD, biomedical engineering researcher."
+description              : "The website of Stephanie Cheung, PhD."
 url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephanie Cheung, PhD"
-  avatar           : /assets/images/profile_circle.png
+  avatar           : /assets/images/StephanieCheung.jpg
   bio              : ""
   location         :
   email            :
