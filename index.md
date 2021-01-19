@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/background.png
 excerpt: ""
 intro:
-  - excerpt: 'Policy analyst. Biomedical engineering researcher. Data sleuth.'
+  - excerpt: 'Policy analyst, biomedical engineering researcher, strategist.'
 feature_row:
   - image_path: /assets/images/projects/nserc.png
     alt: "Headphones and a microphone lie on a table, next the jumbled headphone extension cord."
