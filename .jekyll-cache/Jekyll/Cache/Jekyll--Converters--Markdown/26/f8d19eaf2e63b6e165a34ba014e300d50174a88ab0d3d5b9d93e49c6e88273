@@ -1,0 +1,126 @@
+I"Z
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>researcher analyst  strategist</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="http://localhost:4000/assets/images/projects/nserc.png" alt="Headphones and a microphone lie on a table, next the jumbled headphone extension cord." />
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Auditory feedback in speech development</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Understanding children’s speech.</p>
+
+            </div>
+          
+
+          
+            <p><a href="http://localhost:4000/research/auditoryfb/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="http://localhost:4000/assets/images/projects/nback.png" alt="Handwritten numbers, boxes, and arrows are scrawled on a black background." />
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Memory test sequence generator</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Simplifying stimulus sequencing.</p>
+
+            </div>
+          
+
+          
+            <p><a href="http://localhost:4000/research/nback/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="http://localhost:4000/assets/images/projects/project-3.png" alt="Arrows connect a left column of symbols to a right column of symbols. A heart connects to a drum. Lungs connect to waves. A hand connects to a microphone. A thermometer connects to musicians." />
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Biomusic: Listening to anxiety</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Capturing feeling through sound.</p>
+
+            </div>
+          
+
+          
+            <p><a href="http://localhost:4000/research/biomusic/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+:ET
