@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 ## Peer-reviewed journal articles
-**Cheung, S.T.**, Thompson, K., Chen, J.L., Beal, D.S. (2021) “Response patterns to vowel formant perturbations in children.” *The Journal of the Acoustical Society of America*. Online ahead of print. [doi:10.1121/10.0006567](http://doi.org/10.1121/10.0006567)
+**Cheung, S.T.**, Thompson, K., Chen, J.L., Yunusova, Y., Beal, D.S. (2021) “Response patterns to vowel formant perturbations in children.” *The Journal of the Acoustical Society of America*. Online ahead of print. [doi:10.1121/10.0006567](http://doi.org/10.1121/10.0006567)
 
 Biddiss, E., Chan-Viquez, D., **Cheung, S.T.**, & King, G. (2021) “Engaging children with cerebral palsy in interactive computer play-based motor therapies: theoretical perspectives.” *Disability and Rehabilitation*. Online. [doi:10.1080/09638288.2019.1613681](http://dx.doi.org/10.1080/09638288.2019.1613681)
 
