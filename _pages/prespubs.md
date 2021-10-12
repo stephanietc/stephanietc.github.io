@@ -5,9 +5,11 @@ layout: single
 author_profile: true
 ---
 ## Peer-reviewed journal articles
-Biddiss, E., Chan-Viquez, D., **Cheung, S.T.**, & King, G. (2021) “Engaging children with cerebral palsy in interactive computer play-based motor therapies: theoretical perspectives.” *Disability and Rehabilitation*. Online ahead of print. [doi:10.1080/09638288.2019.1613681](http://dx.doi.org/10.1080/09638288.2019.1613681)
+**Cheung, S.T.**, Thompson, K., Chen, J.L., Beal, D.S. (2021) “Response patterns to vowel formant perturbations in children.” *The Journal of the Acoustical Society of America*. Online ahead of print. [doi:10.1121/10.0006567](http://doi.org/10.1121/10.0006567)
 
-Wincentak, J., **Cheung, S.**, & Kingsnorth, S. (2019) “Utilizing a Journal Club to Build Research Competencies in a Cross-Disciplinary Environment.” *Scholarly and Research Communication*. Online. [doi:dx.doi.org/10.22230/src.2019v10n3a337](http://dx.doi.org/10.22230/src.2019v10n3a337)
+Biddiss, E., Chan-Viquez, D., **Cheung, S.T.**, & King, G. (2021) “Engaging children with cerebral palsy in interactive computer play-based motor therapies: theoretical perspectives.” *Disability and Rehabilitation*. Online. [doi:10.1080/09638288.2019.1613681](http://dx.doi.org/10.1080/09638288.2019.1613681)
+
+Wincentak, J., **Cheung, S.**, & Kingsnorth, S. (2019) “Utilizing a Journal Club to Build Research Competencies in a Cross-Disciplinary Environment.” *Scholarly and Research Communication*. Online. [doi:10.22230/src.2019v10n3a337](http://dx.doi.org/10.22230/src.2019v10n3a337)
 
 **Cheung, S.**, Han, E., Kushki, A., Anagnostou, E., & Biddiss, E. (2016) “Biomusic: An auditory
 interface for detecting physiological indicators of anxiety in children.” *Frontiers in Neuroscience*. 10:401. [doi:10.3389/fnins.2016.00401](http://dx.doi.org/10.3389/fnins.2016.00401)
