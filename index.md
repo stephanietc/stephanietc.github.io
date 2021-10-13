@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/background.png
 excerpt: ""
 intro:
-  - excerpt: 'researcher · analyst · strategist'
+  - excerpt: 'strategist · researcher · analyst'
 feature_row:
   - image_path: /assets/images/projects/nserc.png
     alt: "Headphones and a microphone lie on a table, next the jumbled headphone extension cord."

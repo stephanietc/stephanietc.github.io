@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Stephanie Cheung, PhD"
 title_separator          : "-"
 name                     : "Stephanie Cheung, PhD"
-description              : "The website of Stephanie Cheung, PhD."
+description              : "Stephanie Cheung, PhD: strategist, researcher, analyst."
 url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "Stephanie Cheung, PhD"
   avatar           : /assets/images/StephanieCheung.jpg
-  bio              : "researcher · analyst · strategist"
+  bio              : "strategist · researcher · analyst"
   location         :
   email            :
   uri              :
@@ -250,7 +250,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  #\ _posts
   - scope:
       path: ""
       type: posts

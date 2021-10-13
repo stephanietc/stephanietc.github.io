@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research"
-    url: /research/
-  - title: "Presentations/Publications"
-    url: /prespubs/
+  - title: "Projects"
+    url: /projects/
+  - title: "Output"
+    url: /output/
   - title: "Contact"
     url: /contact/
 research:
