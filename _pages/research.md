@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 <div class="container">
 <div class="grid__wrapper">
