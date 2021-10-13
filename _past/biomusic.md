@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/projects/project-3.png
   url: /research/biomusic
   alt: "Arrows connect a left column of symbols to a right column of symbols. A heart connects to a drum. Lungs connect to waves. A hand connects to a microphone. A thermometer connects to musicians."
-author_profile: false
+author_profile: true
 ---
 
 ![Arrows connect a left column of symbols to a right column of symbols. A heart connects to a drum. Lungs connect to waves. A hand connects to a microphone. A thermometer connects to musicians.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-3.png)

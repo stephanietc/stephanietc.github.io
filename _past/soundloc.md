@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/projects/project-2.png
   url: /research/soundloc
   alt: "A colourful neurogram shows the spiking activity of brainstem neurons with differing intensity."
-author_profile: false
+author_profile: true
 ---
 
 ![A colourful neurogram shows the spiking activity of brainstem neurons with differing intensity.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-2.png)

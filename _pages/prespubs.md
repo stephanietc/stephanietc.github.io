@@ -2,7 +2,7 @@
 permalink: /prespubs/
 title: "Presentations and Publications"
 layout: single
-author_profile: false
+author_profile: true
 ---
 ## Peer-reviewed journal articles
 **Cheung, S.T.**, Thompson, K., Chen, J.L., Yunusova, Y., Beal, D.S. (2021) “Response patterns to vowel formant perturbations in children.” *The Journal of the Acoustical Society of America*. 150(4):2647–2654. [doi:10.1121/10.0006567](http://doi.org/10.1121/10.0006567).

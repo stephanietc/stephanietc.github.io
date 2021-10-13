@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/projects/nserc.png
   url: /research/auditoryfb
   alt: "Headphones and a microphone lie on a table, next the jumbled headphone extension cord."
-author_profile: false
+author_profile: true
 ---
 
 ![Headphones and a microphone lie on a table, next the jumbled headphone extension cord.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\nserc.png)

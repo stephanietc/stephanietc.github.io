@@ -25,7 +25,7 @@
     {% endif %}
   </div>
 
-  <!-- <div class="author__urls-wrapper">
+  <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
@@ -85,7 +85,7 @@
       {% if author.linkedin %}
         <li>
           <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
+            <span style="color: #0a66c2;"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i></span> LinkedIn
           </a>
         </li>
       {% endif %}
@@ -244,5 +244,5 @@
 
       {% include author-profile-custom-links.html %}
     </ul>
-  </div> -->
+  </div>
 </div>

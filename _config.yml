@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "Stephanie Cheung, PhD"
   avatar           : /assets/images/StephanieCheung.jpg
-  bio              : ""
+  bio              : "researcher · analyst · strategist"
   location         :
   email            :
   uri              :
@@ -114,9 +114,9 @@ author:
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
-  orcid            :
-  researchgate     :
-  gscholar         :
+  orcid            : "0000-0001-7006-3160"
+  researchgate     : "Stephanie_Cheung4"
+  gscholar         : "fcFvLQsAAAAJ"
   vine             :
   weibo            :
   xing             :
