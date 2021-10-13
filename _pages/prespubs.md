@@ -17,7 +17,7 @@ interface for detecting physiological indicators of anxiety in children.” *Fro
 ## Conference presentations
 <!-- Quinn de Launay, K., **Cheung, S.**, Riggs, L., Reed, N., & Beal, D. (Aug, 2018). “The effect of multi-session transcranial direct current stimulation on cognitive performance in youth with concussion: A pilot and feasibility study.” Presented by K. Quinn de Launay at *NYC Neuromodulation Conference*, New York, NY. -->
 
-**Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motor Speech*, Savannah, GA, February 2018. [dx.doi.org/10.13140/RG.2.2.36054.14409](http://dx.doi.org/10.13140/RG.2.2.36054.14409).
+**Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motor Speech*, Savannah, GA, February 2018. [doi:10.13140/RG.2.2.36054.14409](http://dx.doi.org/10.13140/RG.2.2.36054.14409).
 
 **Cheung, S.**, Thompson, K., Quinn de Launay, K., Yunusova, Y., & Beal, D. “Compensation and adaptation to vowel perturbation in children aged 4 to 9.” at *Madonna Conference on Motor Speech*, Savannah, GA, February 2018.
 
