@@ -8,25 +8,25 @@ excerpt: ""
 intro:
   - excerpt: 'strategist · researcher · analyst'
 feature_row:
+  - image_path: /assets/images/projects/datagovprivacy.jpg
+    alt: "A fountain pen lying on top of a grid paper with a sketch: a heart, a person, a data signal, and a padlock."
+    title: "Health data governance and privacy policy"
+    excerpt: "Tackling digital challenges."
+    url: "/projects/datagovprivacy/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"    
   - image_path: /assets/images/projects/nserc.png
     alt: "Headphones and a microphone lie on a table, next the jumbled headphone extension cord."
     title: "Auditory feedback in speech development"
     excerpt: "Understanding children's speech."
-    url: "research/auditoryfb/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/projects/nback.png
-    alt: "Handwritten numbers, boxes, and arrows are scrawled on a black background."
-    title: "Memory test sequence generator"
-    excerpt: "Simplifying stimulus sequencing."
-    url: "research/nback/"
+    url: "/projects/auditoryfb/"
     btn_label: "Read More"
     btn_class: "btn--primary"    
-  - image_path: /assets/images/projects/project-3.png
-    title: "Biomusic: Listening to anxiety"
-    alt: "Arrows connect a left column of symbols to a right column of symbols. A heart connects to a drum. Lungs connect to waves. A hand connects to a microphone. A thermometer connects to musicians."
-    excerpt: "Capturing feeling through sound."
-    url: "/research/biomusic/"
+  - image_path: /assets/images/projects/jclub.jpg
+    title: "Cross-disciplinary research journal club"
+    alt: /assets/images/projects/jclub.jpg
+    excerpt: "Building researcher competencies."
+    url: "/projects/journalclub/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

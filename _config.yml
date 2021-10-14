@@ -266,10 +266,13 @@ defaults:
 collections:
   current:
     output: true
-    permalink: /research/:path/
+    permalink: /projects/:path/
   past:
     output: true
-    permalink: /research/:path/
+    permalink: /projects/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
   posts:
     output: true
     permalink: /updates/:title
