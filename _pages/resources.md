@@ -12,7 +12,6 @@ author_profile: true
 ## Ideas
 - Zuboff, Shoshana. ["Big other: surveillance capitalism and the prospects of an information civilization."](https://link.springer.com/article/10.1057/jit.2015.5) Journal of information technology 30.1 (2015): 75-89. - Dr. Zuboff discusses the new power of the "Big Other" in surveillance capitalism.
 - [How institutions gaslight whistleblowers and what can be done](https://retractionwatch.com/2018/07/30/how-institutions-gaslight-whistleblowers-and-what-can-be-done/) (Retraction Watch) - The title speaks for itself. A must-read for anyone working in academia.
-- [Data Governance’s New Clothes](https://www.cigionline.org/articles/data-governances-new-clothes/)
 
 ## Tools
 - [Open Access Button](https://openaccessbutton.org/) - Get access to academic papers.

@@ -4,11 +4,6 @@ title: "Output"
 layout: single
 author_profile: true
 ---
-## Theses
-**Cheung, S.**. (2020). Methodological considerations and findings of a vowel perturbation study in typically developing children ([PhD dissertation](https://tspace.library.utoronto.ca/handle/1807/100930)).
-
-**Cheung, S**. (2014). Modelling the neural representation of interaural level differences for linked and unlinked bilateral hearing aids ([MASc dissertation](https://macsphere.mcmaster.ca/handle/11375/16032)).
-
 ## Peer-reviewed journal articles
 **Cheung, S.T.**, Thompson, K., Chen, J.L., Yunusova, Y., Beal, D.S. (2021) “Response patterns to vowel formant perturbations in children.” *The Journal of the Acoustical Society of America*. 150(4):2647–2654. [doi:10.1121/10.0006567](http://doi.org/10.1121/10.0006567).
 
@@ -35,3 +30,8 @@ interface for detecting physiological indicators of anxiety in children.” *Fro
 <!-- **Cheung, S.T.** & Bruce, I.C. (May, 2015). “Can auditory brainstem and midbrain processing of interaural level diﬀerence cues really explain perceptual performance?” Presented by I.C. Bruce at *169th Meeting of the Acoustical Society of America*, Pittsburgh, PA. [doi:10.1121/1.4920775](http://dx.doi.org/10.1121/1.4920775) -->
 
 **Cheung, S.T.** & Bruce, I.C. “Modeling the neural representation of interaural level diﬀerences for linked and unlinked bilateral hearing aids.” at *International Hearing Aid Research Conference*, Lake Tahoe, CA, August 2014. [doi:10.13140/RG.2.2.12089.88163](http://dx.doi.org/10.13140/RG.2.2.12089.88163).
+
+## Theses
+**Cheung, S.**. (2020). Methodological considerations and findings of a vowel perturbation study in typically developing children ([PhD dissertation](https://tspace.library.utoronto.ca/handle/1807/100930)).
+
+**Cheung, S**. (2014). Modelling the neural representation of interaural level differences for linked and unlinked bilateral hearing aids ([MASc dissertation](https://macsphere.mcmaster.ca/handle/11375/16032)).

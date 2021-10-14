@@ -250,17 +250,18 @@ compress_html:
 
 # Defaults
 defaults:
-  #\ _posts
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single-posts
       author_profile: true
       read_time: false
-      comments: # true
+      comments: false
       share: false
       related: false
+      show_date: true
 
 collections:
   current:
@@ -269,3 +270,6 @@ collections:
   past:
     output: true
     permalink: /research/:path/
+  posts:
+    output: true
+    permalink: /updates/:title
