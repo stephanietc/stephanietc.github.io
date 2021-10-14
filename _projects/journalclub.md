@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cross-disciplinary research journal club"
-order: 9
+order: 8
 header:
   teaser: /assets/images/projects/jclub.jpg
   url: /projects/datagovprivacy

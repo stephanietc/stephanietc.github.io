@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Auditory feedback in speech development"
-order: 8
+order: 9
 header:
   teaser: /assets/images/projects/nserc.png
   url: /projects/auditoryfb
