@@ -11,4 +11,4 @@ author_profile: true
 
 ![A fountain pen lying on top of a grid paper with a sketch: a heart, a person, a data signal, and a padlock.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\datagovprivacy.jpg)
 
-As a strategist, my current focus is on health data governance and privacy policy. I research, analyze, and advise on strategy, applying my strengths in corporate planning and project management to get things done.
+As a strategist, my current focus is on health data governance and privacy policy. I apply my strengths in corporate planning and project management to research, analyze, and advise on strategy that serves and protects the public.

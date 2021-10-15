@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Engagement in video game therapies"
-order: 6
+order: 4
 header:
   teaser: /assets/images/projects/engagement.png
   url: /projects/auditoryfb
