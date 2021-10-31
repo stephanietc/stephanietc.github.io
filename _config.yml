@@ -65,7 +65,7 @@ facebook:
 orcid:
   username               : 0000-0001-7006-3160
 researchgate:
-  username               : 
+  username               :
 gscholar:
   username               : fcFvLQsAAAAJ
 academia:
@@ -275,4 +275,4 @@ collections:
     permalink: /projects/:path/
   posts:
     output: true
-    permalink: /updates/:title
+    permalink: /posts/:title
