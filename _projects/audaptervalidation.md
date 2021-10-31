@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Validation of auditory perturbation software"
-order: 8
+order: 9
 header:
   teaser: /assets/images/projects/nserc-old.png
   url: /projects/audaptervalidation
@@ -14,7 +14,7 @@ author_profile: true
 Real-time signal processing solutions can be used to manipulate a speaker's voice for experimental research. Researchers use this technology to understand the role of auditory feedback - the sound of our own voices - in speech motor control. I led this project to validate the function of a commonly-used software application that shifts children's vowels in real time.
 
 ## Presentations
-**Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motor Speech*, Savannah, GA, February 2018. [doi:10.13140/RG.2.2.36054.14409](http://dx.doi.org/10.13140/RG.2.2.36054.14409).
+**Cheung, S.**, Thompson, K., Orlandi, S., Yunusova, Y., & Beal, D. “Preliminary steps to validate Audapter, a software application for online tracking of children's formants.” at *Madonna Conference on Motor Speech*, Savannah, GA, February 2018. [<i class="fas fa-download"></i> Download](/assets/documents/Cheung et al 2018 MSC.pdf).
 
 ## Funding
 Natural Sciences and Engineering Council of Canada; Wildcat Graduate Scholarship; Eleanor Cate Allen Fellowship; Kimel Family Graduate Student Scholarship in Paediatric Rehabilitation

@@ -14,9 +14,5 @@ author_profile: true
 <br>
 <span style="color: #aacd49;"><i class="fab fa-orcid fa-fw" aria-hidden="true"></i></span> <a href="http://orcid.org/{{ site.orcid.username }}">ORCID</a>
 <br>
-<span style="color: #00ccbb;"><i class="fab fa-researchgate fa-fw" aria-hidden="true"></i></span> <a href="http://www.researchgate.net/profile/{{ site.researchgate.username }}">ResearchGate</a>
-<br>
-  <!-- <a href="http://utoronto.academia.edu/StephanieCheung"><i class="ai ai-academia fa-fw" aria-hidden="true"></i>Academia.edu</a>
-  <br> -->
 <span style="color: #4584ee;"><i class="fab fa-google fa-fw" aria-hidden="true"></i></span> <a href="http://scholar.google.ca/citations?user={{ site.gscholar.username }}">Google Scholar</a>
 <br>

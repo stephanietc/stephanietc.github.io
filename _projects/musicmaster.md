@@ -13,7 +13,7 @@ author_profile: true
 With [Dr. Elaine Biddiss](https://hollandbloorview.ca/staff/elaine-biddiss-masc-phd) and [Dr. Joyce Chen](https://kpe.utoronto.ca/faculty/chen-joyce), I led the design of evidence-based video games that allow children with hemiplegia to access music therapy from home. By pairing motion tracking technology with music therapy techniques, these games are designed to enhance upper limb motor learning in a fun, engaging way.
 
 ## Presentations
-**Cheung, S.**, Hodge, A., Khan, A., Chen, J., & Biddiss, E. “Development of music-based video games for upper limb rehabilitation therapy in children with cerebral palsy.” at *12th Annual NeuroMusic Conference*, Hamilton, ON, November 2016. [doi:10.13140/RG.2.2.32908.51846](http://dx.doi.org/10.13140/RG.2.2.32908.51846).
+**Cheung, S.**, Hodge, A., Khan, A., Chen, J., & Biddiss, E. “Development of music-based video games for upper limb rehabilitation therapy in children with cerebral palsy.” at *12th Annual NeuroMusic Conference*, Hamilton, ON, November 2016. [<i class="fas fa-download"></i> Download](/assets/documents/Cheung et al 2016 Neuromusic.pdf).
 
 **Cheung, S.T.**. “MusicMaster: Movement through Music.” at *CP-NET Workshop 2016*, Toronto, ON, March 2016.
 
