@@ -1,4 +1,4 @@
-I"9<div class="container">
+I"À<div class="container">
 <div class="grid__wrapper">
     
   
@@ -96,32 +96,6 @@
     <h2 class="archive__item-title" itemprop="headline">
       
         <a href="http://localhost:4000/projects/journalclub/" rel="permalink">Cross-disciplinary research journal club
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">
-</p>
-  </article>
-</div>
-
-  
-    
-
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="http://localhost:4000/assets/images/projects/clouds.jpg" alt="Clouds in a blue sky. The top of a mountain is visible in the background." />
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/projects/brite/" rel="permalink">Protections for research trainees
 </a>
       
     </h2>
