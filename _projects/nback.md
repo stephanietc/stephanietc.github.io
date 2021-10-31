@@ -17,4 +17,4 @@ I developed a sequence generator that creates stimuli for an N-back working memo
 Quinn de Launay, K., **Cheung, S.**, Riggs, L., Reed, N., & Beal, D. “The effect of multi-session transcranial direct current stimulation on cognitive performance in youth with concussion: A pilot and feasibility study.” Presented by K. Quinn de Launay at *NYC Neuromodulation Conference*, New York, NY, August 2018.
 
 ## Funding
-Holland Bloorview Centres for Leadership
+Holland Bloorview Centre for Leadership

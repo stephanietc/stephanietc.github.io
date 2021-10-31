@@ -21,7 +21,7 @@ I led this research project to investigate the process of speech development in 
 
 **Cheung, S.**, Thompson, K., Quinn de Launay, K., Yunusova, Y., & Beal, D. “Compensation and adaptation to vowel perturbation in children aged 4 to 9.” at *Madonna Conference on Motor Speech*, Savannah, GA, February 2018.
 
-**Cheung, S.**, Quinn de Launay, K., & Beal, D. “Altered auditory feedback in the study of children's speech production: A scoping review.” at *2017 American Speech-Language-Hearing Convention*, Los Angeles, CA, November 2017. [doi:10.13140/RG.2.2.10906.54722](http://dx.doi.org/10.13140/RG.2.2.10906.54722).
+**Cheung, S.**, Quinn de Launay, K., & Beal, D. “Altered auditory feedback in the study of children's speech production: A scoping review.” at *2017 American Speech-Language-Hearing Convention*, Los Angeles, CA, November 2017. [<i class="fas fa-download"></i> Download](/assets/documents/Cheung et al 2017 ASHA.pdf).
 
 ## Funding
 Natural Sciences and Engineering Council of Canada; Wildcat Graduate Scholarship; Eleanor Cate Allen Fellowship; Kimel Family Graduate Student Scholarship in Paediatric Rehabilitation
