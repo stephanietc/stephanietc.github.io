@@ -1,6 +1,6 @@
 ---
-permalink: /products/
-title: "Products"
+permalink: /output/
+title: "Output"
 layout: single
 author_profile: true
 ---
