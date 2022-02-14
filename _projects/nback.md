@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "N-back sequence generator"
+title: "Working memory test"
 order: 5
 header:
   teaser: /assets/images/projects/nback.png
-  url: /projects/nback
+  url: /projects/memorytest
   alt: "Handwritten numbers, boxes, and arrows are scrawled on a black background."
 author_profile: true
 ---

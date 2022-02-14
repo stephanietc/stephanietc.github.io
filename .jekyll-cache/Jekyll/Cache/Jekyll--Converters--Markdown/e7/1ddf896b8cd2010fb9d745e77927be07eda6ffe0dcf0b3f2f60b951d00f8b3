@@ -1,4 +1,4 @@
-I"À<div class="container">
+I"º<div class="container">
 <div class="grid__wrapper">
     
   
@@ -147,7 +147,7 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/projects/nback/" rel="permalink">N-back sequence generator
+        <a href="http://localhost:4000/projects/nback/" rel="permalink">Working memory test
 </a>
       
     </h2>
