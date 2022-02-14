@@ -13,6 +13,9 @@ author_profile: true
 
 I developed a sequence generator that creates stimuli for an N-back working memory task. This project supported a colleague's research to study the impact of brain stimulation on persistent post-concussion cognitive symptoms.
 
+## Publication
+Quinn de Launay, K., **Cheung, S.T.**, Riggs, L., Reed, N., & Beal, D.S. (2022) “The effect of transcranial direct current stimulation on cognitive performance in youth with persistent cognitive symptoms following concussion: a controlled pilot study.” *Brain Injury*. Advance online publication. [doi:10.1080/02699052.2022.2034179](http://doi.org/10.1080/02699052.2022.2034179).
+
 ## Presentations
 Quinn de Launay, K., **Cheung, S.**, Riggs, L., Reed, N., & Beal, D. “The effect of multi-session transcranial direct current stimulation on cognitive performance in youth with concussion: A pilot and feasibility study.” Presented by K. Quinn de Launay at *NYC Neuromodulation Conference*, New York, NY, August 2018.
 

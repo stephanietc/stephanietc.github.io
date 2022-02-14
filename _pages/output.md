@@ -5,7 +5,10 @@ layout: single
 author_profile: true
 ---
 ## Peer-reviewed journal articles
-**Cheung, S.T.**, Thompson, K., Chen, J.L., Yunusova, Y., Beal, D.S. (2021) “Response patterns to vowel formant perturbations in children.” *The Journal of the Acoustical Society of America*. 150(4):2647–2654. [doi:10.1121/10.0006567](http://doi.org/10.1121/10.0006567). *Copyright (2021) Acoustical Society of America. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the Acoustical Society of America.* [<i class="fas fa-download"></i> Download](/assets/documents/Cheung et al 2021 JASA.pdf).
+Quinn de Launay, K., **Cheung, S.T.**, Riggs, L., Reed, N., & Beal, D.S. (2022) “The effect of transcranial direct current stimulation on cognitive performance in youth with persistent cognitive symptoms following concussion: a controlled pilot study.” *Brain Injury*. Advance online publication. [doi:10.1080/02699052.2022.2034179](http://doi.org/10.1080/02699052.2022.2034179).
+
+**Cheung, S.T.**, Thompson, K., Chen, J.L., Yunusova, Y., Beal, D.S. (2021) “Response patterns to vowel formant perturbations in children.” *The Journal of the Acoustical Society of America*. 150(4):2647–2654. [doi:10.1121/10.0006567](http://doi.org/10.1121/10.0006567).
+<!-- *Copyright (2021) Acoustical Society of America. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the Acoustical Society of America.* [<i class="fas fa-download"></i> Download](/assets/documents/Cheung et al 2021 JASA.pdf). -->
 
 Biddiss, E., Chan-Viquez, D., **Cheung, S.T.**, & King, G. (2021) “Engaging children with cerebral palsy in interactive computer play-based motor therapies: theoretical perspectives.” *Disability and Rehabilitation*. 43(1), 133-147. [doi:10.1080/09638288.2019.1613681](http://dx.doi.org/10.1080/09638288.2019.1613681).
 
