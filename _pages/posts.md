@@ -1,6 +1,6 @@
 ---
-permalink: /posts/
-title: "Posts"
+permalink: /updates/
+title: "Updates"
 layout: archive
 author_profile: true
 ---

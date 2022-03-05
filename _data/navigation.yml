@@ -6,8 +6,8 @@ main:
     url: /projects/
   - title: "Output"
     url: /output/
-  - title: "Posts"
-    url: /posts/
+  - title: "Updates"
+    url: /updates/
   - title: "Contact"
     url: /contact/
 research:

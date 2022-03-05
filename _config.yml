@@ -63,7 +63,7 @@ facebook:
   app_id                 :
   publisher              :
 orcid:
-  username               :
+  username               : #0000-0001-7006-3160
 researchgate:
   username               :
 gscholar:
@@ -91,9 +91,9 @@ analytics:
 author:
   name             : "Stephanie Cheung, PhD"
   avatar           : /assets/images/StephanieCheung.jpg
-  bio              : "strategist · researcher · analyst"
+  bio              : "strategist · researcher · advisor"
   location         :
-  email            :
+  email            : "hello@stephaniecheung.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -107,14 +107,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #"stephanietcheung" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "stephanietcheung" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
-  orcid            :
+  orcid            : #0000-0001-7006-3160
   researchgate     :
   gscholar         :
   vine             :
