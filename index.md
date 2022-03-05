@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/background.png
 excerpt: ""
 intro:
-  - excerpt: 'strategist · researcher · analyst'
+  - excerpt: 'strategist · researcher · advisor'
 feature_row:
   - image_path: /assets/images/projects/datagovprivacy.jpg
     alt: "A fountain pen lying on top of a grid paper with a sketch: a heart, a person, a data signal, and a padlock."
