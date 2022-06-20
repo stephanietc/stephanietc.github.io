@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/projects/nserc.png
     alt: "Headphones and a microphone lie on a table, next the jumbled headphone extension cord."
     title: "Auditory feedback in speech development"
-    excerpt: "Researching speech development."
+    excerpt: "Pushing scientific boundaries."
     url: "/projects/auditoryfb/"
     btn_label: "Read More"
     btn_class: "btn--primary"    
