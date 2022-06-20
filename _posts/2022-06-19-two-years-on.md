@@ -10,4 +10,4 @@ In my new "policy life", I do my fair share of fact-finding. Between environment
 
 I joke about having a "research brain" sometimes, but I wouldn't be where I am without it.
 
-So, two years on, I'm quietly recognizing everything I love about my new career path, and thanking all the people who made me the researcher I am.
+So, two years on, I'm quietly celebrating everything I love about my new career path, and thanking all the people who made me the researcher I am.
