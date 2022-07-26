@@ -1,3 +1,5 @@
-source "https://rubygems.org"
-gem "minimal-mistakes-jekyll"
-gem 'wdm', '~> 0.1.0'
+source 'http://rubygems.org'
+
+gem "jekyll"
+gem "jekyll-paginate"
+gem "support-for"
