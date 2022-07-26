@@ -8,15 +8,15 @@ description: Stephanie Cheung's website
 url: https://stephaniecheung.ca
 
 # A brief blurb about yourself
-content: Systems-thinking strategist, policymaker, and advisor with a biomedical engineering background and a research lens. I use a process mindset to develop elegant solutions for complex issues.
+content: Strategist, policymaker, advisor. I am a systems thinker with a biomedical engineering background and a research lens. I use a process mindset to develop elegant solutions for complex public policy issues.
 
 # Add your social links
 social:
-  - platform: linkedin
+  - platform: LinkedIn
     url: https://www.linkedin.com/in/stephanietcheung/
-  - platform: orcid
+  - platform: ORCID
     url: https://orcid.org/0000-0001-7006-3160
-  - platform: email
+  - platform: Email
     url: mailto:hello@stephaniecheung.ca
 
 # General settings
