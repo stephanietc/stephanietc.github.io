@@ -2,7 +2,7 @@
   min-height: 100vh;
   font-family: $sans-serif;
   font-weight: 300;
-  background-color: #213334;
+  background-color: #EBF6F6;
   background-size: cover;
   background-position: center;
   @include responsivebackground("card-sm.jpg", "card-md.jpg", "card-lg.jpg");
@@ -44,7 +44,7 @@
 
   &__content {
     padding: 40px;
-    background-color: white;
+    background-color: #EBF6F6;
     border-radius: rem(10);
 
     @include min(md) {
