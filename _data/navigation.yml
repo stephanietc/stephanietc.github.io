@@ -4,12 +4,11 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Output"
-    url: /output/
-  - title: "Updates"
-    url: /updates/
-  - title: "Contact"
-    url: /contact/
+  - title: "CV"
+    url: /curriculumvitae/
+  # - title: "Posts"
+
+  #   url: /posts/
 research:
   - title: "Current"
     children:

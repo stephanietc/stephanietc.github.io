@@ -1,9 +1,22 @@
 ---
-permalink: /output/
-title: "Output"
+permalink: /curriculumvitae/
+title: "Academic CV"
 layout: single
 author_profile: true
 ---
+
+## Education
+**PhD in Biomedical Engineering (2020)**, University of Toronto  
+Completed with collaborative specialization in neuroscience  
+Thesis title: *Methodological considerations and findings of a vowel perturbation study in typically developing children.* [hdl:1807/100930](http://hdl.handle.net/1807/100930).  
+Supervisor: Deryk Beal
+
+**MASc in Electrical & Computer Engineering (2014)**, McMaster University  
+Thesis title: *Modelling the neural representation of interaural level differences for linked and unlinked bilateral hearing aids.* [hdl:11375/16032](http://hdl.handle.net/11375/16032).  
+Supervisor: Ian Bruce
+
+**BEng in Electrical & Biomedical Engineering (2012)**, McMaster University
+
 ## Peer-reviewed journal articles
 Quinn de Launay, K., **Cheung, S.T.**, Riggs, L., Reed, N., & Beal, D.S. (2022) “The effect of transcranial direct current stimulation on cognitive performance in youth with persistent cognitive symptoms following concussion: a controlled pilot study.” *Brain Injury*. Advance online publication. [doi:10.1080/02699052.2022.2034179](http://doi.org/10.1080/02699052.2022.2034179).
 
@@ -30,11 +43,21 @@ interface for detecting physiological indicators of anxiety in children.” *Fro
 
 **Cheung, S.T.**. “MusicMaster: Movement through Music.” at *CP-NET Workshop 2016*, Toronto, ON, March 2016.
 
-<!-- **Cheung, S.T.** & Bruce, I.C. (May, 2015). “Can auditory brainstem and midbrain processing of interaural level diﬀerence cues really explain perceptual performance?” Presented by I.C. Bruce at *169th Meeting of the Acoustical Society of America*, Pittsburgh, PA. [doi:10.1121/1.4920775](http://dx.doi.org/10.1121/1.4920775) -->
-
 **Cheung, S.T.** & Bruce, I.C. “Modeling the neural representation of interaural level diﬀerences for linked and unlinked bilateral hearing aids.” at *International Hearing Aid Research Conference*, Lake Tahoe, CA, August 2014. [<i class="fas fa-download"></i> Download](/assets/documents/Cheung and Bruce 2014 IHCON.pdf).
 
-## Theses
-**Cheung, S**. (2020). Methodological considerations and findings of a vowel perturbation study in typically developing children. [hdl:1807/100930](http://hdl.handle.net/1807/100930).
+<!-- ## Honours and awards
+2018 -- Kimel Family Graduate Student Scholarship in Pediatric Rehabilitation
 
-**Cheung, S**. (2014). Modelling the neural representation of interaural level differences for linked and unlinked bilateral hearing aids. [hdl:11375/16032](http://hdl.handle.net/11375/16032).
+2018 -- 2<sup>nd</sup> Place Podium Presentation, Conference on Motor Speech
+
+2017 -- Wildcat Voyager Scholarship
+
+2016 -- Wildcat Graduate Scholarship
+
+2016 -- Eleanor Cate Allen Fellowship
+
+2015 -- Wildcat Graduate Scholarship
+
+2014 -- Certificate of Excellence for Outstanding Thesis
+
+2014 -- International Hearing Aid Research Conference Student Scholarship -->
