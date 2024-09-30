@@ -63,7 +63,7 @@ facebook:
   app_id                 :
   publisher              :
 orcid:
-  username               : #0000-0001-7006-3160
+  username               : 0000-0001-7006-3160
 researchgate:
   username               :
 gscholar:
@@ -114,7 +114,7 @@ author:
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
-  orcid            : #0000-0001-7006-3160
+  orcid            : 0000-0001-7006-3160
   researchgate     :
   gscholar         :
   vine             :

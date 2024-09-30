@@ -11,5 +11,5 @@ author_profile: true
 <span style="color: #0a66c2;"><i class="fab fa-linkedin-in fa-fw" aria-hidden="true"></i></span> <a href="http://linkedin.com/in/{{ site.linkedin.username }}">LinkedIn</a>
 <br>
 
-<span style="color: #A6CE39;"><i class="fa-brands fa-orcid fa-fw" aria-hidden="true"></i></span> <a href="https://orcid.org/{{ site.linkedin.username }}">ORCID</a>
+<span style="color: #A6CE39;"><i class="fa-brands fa-orcid fa-fw" aria-hidden="true"></i></span> <a href="https://orcid.org/{{ site.orcid.username }}">ORCID</a>
 <br>
