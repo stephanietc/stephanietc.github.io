@@ -1,0 +1,40 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Output"
+    url: /output/
+  - title: "Updates"
+    url: /updates/
+  - title: "Contact"
+    url: /contact/
+research:
+  - title: "Current"
+    children:
+      - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> Auditory feedback in speech development</a>
+        url: /research/auditoryfb/
+      - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> Validation of auditory perturbation software</a>
+        url: /research/audaptervalidation/
+      - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> Engagement in video game therapies</a>
+        url: /research/icpengagement/
+  - title: "Past"
+    children:
+      - title: <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> N-back sequence generator</a>
+        url: /research/nback/
+      - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Music-based therapy games</a>
+        url: /research/musicmaster/
+      - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Audio classification of musical instruments</a>
+        url: /research/instrumentclassifier/
+      - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Physiological models of sound localization</a>
+        url: /research/soundloc/
+      - title: <i class="fa fa-fw fa-check" aria-hidden="true"></i> Biomusic&#58; Listening to anxiety</a>
+        url: /research/biomusic/
+
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
