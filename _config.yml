@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Stephanie Cheung, PhD"
 title_separator          : "-"
 name                     : "Stephanie Cheung, PhD"
-description              : "Stephanie Cheung, PhD: strategist, researcher, advisor."
+description              : "Stephanie Cheung, PhD: strategist, scientist, systems thinker"
 url                      : https://stephaniecheung.ca
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "Stephanie Cheung, PhD"
   avatar           : /assets/images/StephanieCheung.jpeg
-  bio              : "strategist · researcher · advisor"
+  bio              : "strategist · scientist · systems thinker"
   location         :
   email            : "hello@stephaniecheung.ca"
   uri              :

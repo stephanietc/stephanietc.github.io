@@ -11,7 +11,7 @@ author_profile: true
 
 ![A colourful neurogram shows the spiking activity of brainstem neurons with differing intensity.]({{ site.url }}{{ site.baseurl }}\assets\images\projects\project-2.png)
 
-Sound localization is important for everyday hearing. With [Dr. Ian Bruce](http://www.ece.mcmaster.ca/~ibruce/) at McMaster University, I used computational models of the auditory brainstem and midbrain to investigate how sound localization cues are processed in impaired and aided hearing.
+Sound localization in hearing is important for safety and comfort in daily life. With [Dr. Ian Bruce](http://www.ece.mcmaster.ca/~ibruce/) at McMaster University, I used computational models of the auditory brainstem and midbrain to investigate how sound localization cues are processed in impaired and aided hearing.
 
 ## Presentations
 **Cheung, S.T.** & Bruce, I.C. “Modeling the neural representation of interaural level diﬀerences for linked and unlinked bilateral hearing aids.” at *International Hearing Aid Research Conference*, Lake Tahoe, CA, August 2014. [<i class="fas fa-download"></i> Download](/assets/documents/Cheung and Bruce 2014 IHCON.pdf).
