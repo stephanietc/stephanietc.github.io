@@ -4,7 +4,7 @@ title: "About"
 layout: single
 author_profile: true
 ---
-I am a strategist, scientist, and former academic researcher in biomedical engineering. I enjoy the puzzle of identifying complex systems and experimenting with how to understand and improve them.
+I am a strategist, scientist, and former academic researcher in biomedical engineering. I enjoy the puzzle of identifying complex systems and experimenting with how to understand, model, and improve them. 
 
 I earned my PhD in [Biomedical Engineering](https://ibbme.utoronto.ca/) with a [collaborative specialization in neuroscience](http://www.neuroscience.utoronto.ca/) at the University of Toronto and conducted my research at [Holland Bloorview Kids Rehabilitation Hospital](https://research.hollandbloorview.ca/). Through my research, I explored interests in evaluating measurement tools, assessing analysis methods, and modelling the mechanisms that underlie observed phenomena. While I no longer work in academia, I use many similar skills in my current work to make programs and services more effective in an evidence-based way.
 
