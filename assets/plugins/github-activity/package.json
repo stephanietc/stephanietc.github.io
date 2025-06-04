@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/caseyscarborough/github-activity.git"
+    "url": "git://github.com/stephanietc/github-activity.git"
   },
   "keywords": [
     "github"
   ],
-  "author": "Casey Scarborough",
+  "author": "Stephanie Cheung",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/caseyscarborough/github-activity/issues"
+    "url": "https://github.com/stephanietc/github-activity/issues"
   },
-  "homepage": "https://github.com/caseyscarborough/github-activity"
+  "homepage": "https://github.com/stephanietc/github-activity"
 }
