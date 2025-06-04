@@ -4,7 +4,7 @@
   "description": "A widget for displaying GitHub activity for a user.",
   "main": "Gruntfile.js",
   "devDependencies": {
-    "grunt": "~0.4.5",
+    "grunt": ">=1.5.3",
     "grunt-contrib-copy": "~0.5.0",
     "grunt-contrib-uglify": "~0.5.1",
     "grunt-contrib-cssmin": "~0.10.0",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stephanietc/github-activity.git"
+    "url": "git://github.com/caseyscarborough/github-activity.git"
   },
   "keywords": [
     "github"
   ],
-  "author": "Stephanie Cheung",
+  "author": "Casey Scarborough",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stephanietc/github-activity/issues"
+    "url": "https://github.com/caseyscarborough/github-activity/issues"
   },
-  "homepage": "https://github.com/stephanietc/github-activity"
+  "homepage": "https://github.com/caseyscarborough/github-activity"
 }
