@@ -21,7 +21,6 @@ GEM
       net-http (>= 0.5.0)
     ffi (1.17.2)
     forwardable-extended (2.6.0)
-<<<<<<< HEAD
     google-protobuf (4.32.0)
       bigdecimal
       rake (>= 13)
@@ -31,9 +30,6 @@ GEM
     google-protobuf (4.32.0-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
-=======
-    google-protobuf (3.25.5)
->>>>>>> e7fa41ce2441bfede363e1164e480ea6e5211f28
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
