@@ -1,21 +1,21 @@
 // Site base
-@import "base/normalize";
-@import "base/config";
-@import "base/mixins";
-@import "base/typography";
-@import "base/global";
+@use "base/normalize";
+@use "base/config";
+@use "base/mixins";
+@use "base/typography";
+@use "base/global";
 
 // Modules
-@import "modules/buttons";
+@use "modules/buttons";
 // @import "modules/forms";
 // @import "modules/tables";
-@import "modules/links";
-@import "modules/lists";
+@use "modules/links";
+@use "modules/lists";
 
 // Import Layouts
-@import "layouts/half";
-@import "layouts/full";
-@import "layouts/card";
+@use "layouts/half";
+@use "layouts/full";
+@use "layouts/card";
 
 // Font Awesome
 // @import "/assets/fontawesome/scss/fontawesome.scss";
