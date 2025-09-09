@@ -10,6 +10,6 @@ I earned my PhD in [Biomedical Engineering](https://ibbme.utoronto.ca/) with a [
 
 I am also interested in the reliability and [validity](/projects/audaptervalidation) of measures, both those that are used in research and those that we encounter day to day. How can we be certain that a tool fully measures the construct it's meant to, and how consistently can it be applied? How do these measures impact what we think we know about a system?
 
-Now that I've left academia, I ask similar questions as I tackle complex systems of a different kind -- trustworthy public sector policies and programs. I find ways to make design and delivery more efficient and effective by asking questions, gathering evidence, and using a principles-based approach.
+Now that I've left academia, I ask similar questions as I tackle complex systems of a different kind -- trustworthy public sector policies and programs. I make design and delivery more effective and efficient by asking questions, gathering evidence, and creating principles-based tools for implementation. From a scientific lens, the work isn't so different from developing conceptual models and fast-tracking them into testing, iterating and improving for the benefit of the user.
 
 This website showcases my academic portfolio and will give you a sense of how I find creative, elegant solutions for tricky problems.
